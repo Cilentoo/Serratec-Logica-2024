@@ -1,3 +1,4 @@
+// Grupo 6 -- Eduardo Cilento, Rafael Freire, Ricardo Lopes, Isabella Assumpção e Isabela Dias.
 programa
 {
     funcao inicio()
@@ -59,7 +60,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 564; 
+ * @POSICAO-CURSOR = 95; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
